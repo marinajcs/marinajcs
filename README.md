@@ -48,7 +48,7 @@
 ## 🤔 Other facts about me 🤔
 
 - 🐧 Marina J. Carranza | 21 | she/her
-- 🔭 I’m currently studying Computer Engineering in the University of Granada
+- 🔭 I’m currently studying Computer Science in the University of Granada (UGR)
 - 💬 Languages I know: Spanish (native), English (proficient/Cambridge C2), Chinese (beginner/HSK 2)...
 - 🎯 My current objective is adding more Holopins to my collection
 - 🏁 My goal is to become a competent programmer and travel around the world!
