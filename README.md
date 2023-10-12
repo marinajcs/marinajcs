@@ -1,10 +1,10 @@
-# Hey, welcome to my profile! 👋
+# 👋 Hey, welcome to my profile! 👋
 
-## My Holopin board
+## 📋 My Holopin board 📋
 
 [![An image of @marinajcs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marinajcs)](https://holopin.io/@marinajcs)
 
-## Languages I've worked with
+## 💻 Languages I've worked with 💻
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,7 +19,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## IDEs/editors I'm familiar with
+## ✏️ IDEs/editors I'm familiar with ✏️
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -31,12 +31,15 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## Other facts about me
+## 🌱 Currently learning 🌱
 
-- 🐧 Pronouns: she/her
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 🤔 Other facts about me 🤔
+
+- 🐧 Marina J. Carranza | 21 | she/her
 - 🔭 I’m currently studying Computer Engineering in the University of Granada
 - 💬 Languages I know: Spanish (native), English (proficient/Cambridge C2), Chinese (beginner/HSK 2)...
-- 🌱 I’m currently learning: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- 🤔 My current objective is adding more Holopins to my collection
+- 🎯 My current objective is adding more Holopins to my collection
 - 🏁 My goal is to become a competent programmer and travel around the world!
 - 📫 How to reach me: @marinajcs (Telegram)
