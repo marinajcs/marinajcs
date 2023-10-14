@@ -53,3 +53,15 @@
 - 🎯 My current objective is adding more Holopins to my collection
 - 🏁 My goal is to become a competent programmer and travel around the world!
 - 📫 How to reach me: @marinajcs (Telegram)
+
+## Some statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinajcs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinajcs&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
