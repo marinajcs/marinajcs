@@ -19,7 +19,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 📊 Databases I'm familiar with 📊
+## 📥 Databases I'm familiar with 📥
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +54,7 @@
 - 🏁 My goal is to become a competent programmer and travel around the world!
 - 📫 How to reach me: @marinajcs (Telegram)
 
-## Some statistics
+## 📊 Some statistics 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marinajcs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
