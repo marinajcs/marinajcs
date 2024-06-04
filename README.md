@@ -50,8 +50,8 @@
 - 🐧 Marina J. Carranza | 21 | she/her
 - 🔭 I’m currently studying Computer Science in the University of Granada (UGR)
 - 💬 Languages I know: Spanish (native), English (proficient/Cambridge C2), Chinese (beginner/HSK 2)...
-- 🎯 My current objective is adding more Holopins to my collection
-- 🏁 My goal is to become a competent programmer and travel around the world!
+- 🎯 My current goal is to finish my university studies
+- 🏁 My long-term goal is to become a competent computer engineer and travel around the world!
 - 📫 How to reach me: @marinajcs (Telegram)
 
 ## 📊 Some statistics 📊
