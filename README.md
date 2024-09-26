@@ -1,10 +1,12 @@
 # 👋 Hey, welcome to my profile! 👋
 
-## 📋 My Holopin board 📋
+## 🏆 My Holopin board 🏆
 
 [![An image of @marinajcs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marinajcs)](https://holopin.io/@marinajcs)
 
-## 💻 Languages I've worked with 💻
+## 💻 What I've worked with before... 💻
+
+### Languages 📋
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,15 +20,25 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📥 Databases I'm familiar with 📥
+### Hosting/SaaS ☁️
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### AI and bots 🤖
+
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+### Databases 📥
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-
-## ✏️ IDEs/editors I've used ✏️
+### IDEs/editors ✏️
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -48,9 +60,9 @@
 ## 🤔 Other facts about me 🤔
 
 - 🐧 Marina J. Carranza | 21 | she/her
-- 🔭 I’m currently studying Computer Science in the University of Granada (UGR)
+- 🔭 I’m a graduate in Computer Engineering in the University of Granada (UGR)
 - 💬 Languages I know: Spanish (native), English (proficient/Cambridge C2), Chinese (beginner/HSK 2)...
-- 🎯 My current goal is to finish my university studies
+- 🎯 My current goal is to finish my Master's Degree in Computer Engineering
 - 🏁 My long-term goal is to become a competent computer engineer and travel around the world!
 - 📫 How to reach me: @marinajcs (Telegram)
 
