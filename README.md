@@ -6,7 +6,7 @@
 
 ## 💻 What I've worked with before... 💻
 
-### Languages 📋
+### Programming languages 📋
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -70,7 +70,7 @@
 - 💬 Languages I know: Spanish (native), English (proficient/Cambridge C2), Chinese (beginner/HSK 2)...
 - 🎯 My current goal is to finish my Master's Degree in Computer Engineering
 - 🏁 My long-term goal is to become a competent computer engineer and travel around the world!
-- 📫 How to reach me: @marinajcs (Telegram)
+- 📫 How to reach me: LinkedIn or Telegram (profile links)
 
 ## 📊 Some statistics 📊
 
