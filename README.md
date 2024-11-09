@@ -77,7 +77,7 @@
 
 ## 🤔 Other facts about me 🤔
 
-- 🐧 Marina J. Carranza | 21 | she/her
+- 🐧 Marina J. Carranza | 22 | she/her
 - 🔭 I’m a graduate in Computer Engineering in the University of Granada (UGR)
 - 💬 Languages I know: Spanish (native), English (proficient/Cambridge C2), Chinese (beginner/HSK 2)...
 - 🎯 My current goal is to finish my Master's Degree in Computer Engineering
